@@ -1,0 +1,5 @@
+# Default values for metallb-postdeploy.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+ippool: 10.10.21.40-10.10.21.49
